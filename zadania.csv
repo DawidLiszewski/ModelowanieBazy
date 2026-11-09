@@ -1,0 +1,4 @@
+id_zadania,nazwa_zadania,priorytet,opis,pracownik,projekt
+1,"Zadanie 1",normalny,"Test 1",1,NULL
+2,"Zadanie 2",normalny,"Test 2",2,NULL
+3,"Zadanie 3",wysoki,"Test 3",3,NULL
